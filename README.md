@@ -4,9 +4,9 @@
 
 🔭 **I’m Currently Working On:** `my personal website`
 
-👩🏻‍💻 **My Most Recent Project:** [AstroClash](https://github.com/EllieAzaveda/AstroClash.git)
-
 🌱 **I’m Currently Learning:** `Jest`, `CircleCI`, `TensorFlow`
+
+👩🏻‍💻 **My Most Recent Project:** [AstroClash](https://github.com/EllieAzaveda/AstroClash.git)
 
 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/ellie-azaveda/) || ellieazaveda@gmail.com
 
