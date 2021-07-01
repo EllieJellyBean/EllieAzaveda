@@ -2,15 +2,17 @@
 
 ## 🖤 🤎 💜 💙 💚 💛 🧡 💖 👽 I'm Ellie 👽 💖 🧡 💛 💚 💙 💜 🤎 🖤
 
-🔭 **I’m currently working on:** `my personal website`
+🔭 **I’m Currently Working On:** `my personal website`
 
-🌱 **I’m currently learning:** `Jest`, `CircleCI`, `TensorFlow`
+👩🏻‍💻 **My Most Recent Project:** [AstroClash](https://github.com/EllieAzaveda/AstroClash.git)
 
-📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/ellie-azaveda/) || ellieazaveda@gmail.com
+🌱 **I’m Currently Learning:** `Jest`, `CircleCI`, `TensorFlow`
+
+📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/ellie-azaveda/) || ellieazaveda@gmail.com
 
 🏳️‍🌈 **Pronouns:** She/Her || They/Them
 
-🤖 **Fun fact:** 💥 I love boxing! 🥊
+🤖 **Fun Fact:** 💥 I love boxing! 🥊
 
 ![Ellie's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellieazaveda&show_icons=true&theme=nightowl)
 
