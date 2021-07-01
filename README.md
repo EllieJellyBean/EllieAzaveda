@@ -1,6 +1,6 @@
 <img width="1250" alt="Screen Shot 2021-07-01 at 1 17 06 PM" src="https://user-images.githubusercontent.com/76409536/124178483-d5040400-da6e-11eb-87c0-44374de94acd.png">
 
-## 🖤 🤎 💜 💙 💚 💛 🧡 💖 👽 I'm Ellie 👽 💖 🧡 💛 💚 💙 💜 🤎 🖤
+# 🖤 🤎 💜 💙 💚 💛 🧡 💖 👽 I'm Ellie 👽 💖 🧡 💛 💚 💙 💜 🤎 🖤
 
 🔭 **I’m Currently Working On:** `my personal website`
 
