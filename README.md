@@ -4,7 +4,7 @@
 
 🔭 **I’m Currently Working On:** `my personal website`
 
-🌱 **I’m Currently Learning:** `Jest`, `CircleCI`, `TensorFlow`
+🌱 **I’m Currently Learning:** `Jest`, `TravisCI`, `TensorFlow JS`
 
 👩🏻‍💻 **My Most Recent Project:** [AstroClash](https://github.com/EllieAzaveda/AstroClash.git)
 
