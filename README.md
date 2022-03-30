@@ -2,11 +2,7 @@
 
 # 🖤 🤎 💜 💙 💚 💛 🧡 💖 I'm Ellie 💖 🧡 💛 💚 💙 💜 🤎 🖤
 
-🔭 **I’m Currently Working On:** `my personal website`
-
-🌱 **I’m Currently Learning:** `CircleCI`, `TypeScript`
-
-👩🏻‍💻 **My Most Recent Project:** [AstroClash](https://github.com/EllieAzaveda/AstroClash.git)
+🌱 **I’m Currently Learning:** `Ruby on Rails`
 
 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/ellie-azaveda/) || ellieazaveda@gmail.com
 
