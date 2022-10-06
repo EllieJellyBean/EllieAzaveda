@@ -4,7 +4,7 @@
 
 🌱 **I’m Currently Learning:** `Ruby on Rails`
 
-📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/ellie-azaveda/) || ellieazaveda@gmail.com
+📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/ellie--miller/)
 
 🏳️‍🌈 **Pronouns:** She/Her || They/Them
 
